@@ -1,0 +1,1 @@
+# Description: Create a script that calculates the average of a list of numbers provided as command-line arguments.
